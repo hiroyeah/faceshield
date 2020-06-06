@@ -27,3 +27,6 @@ http://slab.jp/
 頭のうらの「つる」の部分の長さだけを自由に改変できる、パラメトリック・モデルを作成・公開しました（ベータ版です）。
 https://www.thingiverse.com/thing:4431372
 
+(images/customizr1.png)
+(images/customizr2.png)
+(images/customizr3.png)
