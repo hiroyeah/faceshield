@@ -30,3 +30,10 @@ https://www.thingiverse.com/thing:4431372
 ![パラメトリック・モデル](images/customizr1.png)
 ![パラメトリック・モデル](images/customizr2.png)
 ![パラメトリック・モデル](images/customizr3.png)
+
+
+# 作ったものを他人に渡す場合の注意
+[フェイスシールドを安全に作って渡すためのガイドラインドキュメント](https://fabsafehub.org/faceshield)
+
+
+
