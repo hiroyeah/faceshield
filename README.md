@@ -30,23 +30,32 @@ http://slab.jp/
 
 # 使用可能なフィラメント
 
-繰り返し使用するためには煮沸消毒が可能で、かつ頭部に柔らかいPP (ポリプロピレン）が有力であると考えられます。
+繰り返し使用するためには高温消毒・アルコール消毒が可能で、かつ頭部に柔らかいPP (ポリプロピレン）が有力であると考えられます。
 PP (ポリプロピレン）のフィラメントのうち、安定した3Dプリントを行うために収縮抑制のグラスウールを混ぜたナノダックス社の「3D-MAGIC」をお勧めします。
 http://nanodax.jp/3Dfilament.html
-
-
-# パラメトリック・モデル
-
-頭のうらの「つる」の部分の長さだけを自由に改変できる、パラメトリック・モデルを作成・公開しました（ベータ版です）。
-https://www.thingiverse.com/thing:4431372
-
-![パラメトリック・モデル](images/customizr1.png)
-![パラメトリック・モデル](images/customizr2.png)
-![パラメトリック・モデル](images/customizr3.png)
 
 
 # 作ったものを他人に渡す場合の注意
 [フェイスシールドを安全に作って渡すためのガイドラインドキュメント](https://fabsafehub.org/faceshield)
 
 
+# パラメトリック・モデル (Thingiverse Customizr機能への公開)
+
+頭のうらの「つる」の部分の長さだけを自由に改変できる、パラメトリック・モデルを作成し、世界的な3Dデータレポジトリ「Thingiverse」に公開しました（ベータ版です）。https://www.thingiverse.com/thing:4431372
+
+![パラメトリック・モデル](images/customizr1.png)
+![パラメトリック・モデル](images/customizr2.png)
+![パラメトリック・モデル](images/customizr3.png)
+
+「Customizer」という機能を使うことで自由につるの長さを変更できます。
+
+
+
+# パラメトリック・モデル (独自のカスタマイズサイトの開発) ※開発中
+
+独自のパラメトリック・モデル改変インターフェイスを研究開発中です。
+
+https://fab.sfc.keio.ac.jp/openjscad/packages/web/
+
+![パラメトリック・モデル編集サイト]
 
