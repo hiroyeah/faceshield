@@ -12,7 +12,9 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 
 田中浩也/ 湯浅亮平 / 脇本智正
 
+![実物イメージA](images/d31986-31-802717-0.png)
 
+![実物イメージB](images/d31986-31-582252-1.jpg)
 
 ![クリエイティブコモンズCCBY](images/by-sa.png)
 
