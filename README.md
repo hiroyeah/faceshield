@@ -21,6 +21,9 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 フォルダに公開したデータのうち「Wakyu_Large.stl」が大サイズ、「Wakyu_Middle.stl」が中サイズ、「Wakyu_Small.stl」が小サイズになっています。
 どのデータも「透明シールド」を差し込むための溝の設計がカギです。スライス時に、その「溝」をサポート材で埋めたりせずに、かつ寸法通り正しい幅で出力するために、3Dプリンタのノズルは0.4mmを強くお勧めします。
 
+![Wakyu_L](images/Wakyu_L.jpg)
+![Wakyu_M](images/Wakyu_M.jpg)
+![Wakyu_S](images/Wakyu_S.jpg)
 
 # 共同設計パートナー
 
@@ -62,7 +65,7 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 
 # 印刷設定(スライサーの設定)
 
-フェイスシールドをプリントするには細かな印刷設定が必要です。
+フェイスシールドを一般的なフィラメントタイプのプリンターでプリントするには細かな印刷設定が必要です。
 いくつかのパラメータを変更することで、印刷時間を短縮し、より仕上がりが良く着け心地の良いフレームをプリントする事ができます。
 ２つのスライサーのお勧めする印刷設定を紹介します。
 [Simplify3D] (https://www.simplify3d.com/)
@@ -70,3 +73,8 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 
 [Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura) 
 
+
+# シールドカット(型紙)
+多くの方にお使い頂けるよう、シールド部分は大きめに作成しております。
+カットをするための型紙を用意いたしましたので、ダウンロードしプリントしてお使いください。
+A3用紙で印刷することで、適切な型紙サイズとしてお使い頂けます。
