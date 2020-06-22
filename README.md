@@ -16,6 +16,12 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 
 ![クリエイティブコモンズCCBY](images/by-sa.png)
 
+(images/IMG_8890.JPG)
+
+(images/IMG_8891.JPG)
+
+(images/IMG_8892.JPG)
+
 # 3Dデータの説明
 
 フォルダに公開したデータのうち「Wakyu_Large.stl」が大サイズ、「Wakyu_Middle.stl」が中サイズ、「Wakyu_Small.stl」が小サイズになっています。
