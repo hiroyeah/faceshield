@@ -20,9 +20,6 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 
 ![実物イメージ1](images/IMG_8890.JPG)
 
-![実物イメージ2](images/IMG_8891.JPG)
-
-![実物イメージ3](images/IMG_8892.JPG)
 
 # 3Dデータの説明
 
