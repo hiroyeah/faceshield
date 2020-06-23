@@ -12,9 +12,17 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 
 田中浩也/ 湯浅亮平 / 脇本智正
 
+![実物イメージA](images/d31986-31-802717-0.png)
 
+![実物イメージB](images/d31986-31-582252-1.jpg)
 
 ![クリエイティブコモンズCCBY](images/by-sa.png)
+
+![実物イメージ1](images/IMG_8890.JPG)
+
+![実物イメージ2](images/IMG_8891.JPG)
+
+![実物イメージ3](images/IMG_8892.JPG)
 
 # 3Dデータの説明
 
