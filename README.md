@@ -18,7 +18,7 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 
 ![クリエイティブコモンズCCBY](images/by-sa.png)
 
-![実物イメージ1](images/IMG_8890.JPG)
+![実物イメージ](images/SamplePrint01.png)
 
 
 # 3Dデータの説明
