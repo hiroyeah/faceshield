@@ -14,7 +14,7 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 
 ![実物イメージA](images/FSpartsSample.png)
 
-![実物プリント(images/SamplePrint01.png)
+![実物プリント](images/SamplePrint01.png)
 
 
 ![クリエイティブコモンズCCBY](images/by-sa.png)
