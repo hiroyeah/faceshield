@@ -71,15 +71,19 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 
 [Simplify3D](https://www.simplify3d.com/)での詳細設定
 
-インフィルはできるだけ0%にしてください
-![S3D_Set1](images/S3D/S3Dlayer.png)
 
 アウトラインは2層~3層が推奨です。　3層にする場合は変更項目がほかにあります。
 スタート地点を固定することで、短時間かつ、美しい造形が可能です。
-![S3D_Set1](images/S3D/S3Dinfill.png)
+![S3D_Set1](images/S3D/S3Dlayer.png)
+
+
+インフィルはできるだけ0%にしてください
+3層でプリントする場合、または印刷後に壁の接着が弱い場合は”アウトラインの重なり”の数字を大きくして
+![S3D_Set2](images/S3D/S3Dinfill.png)
+
 
 ※モデルが非常に薄い為、高度な設定の”薄壁生成時の動作”を必ず変更し、画像のようにしてください。
-![S3D_Set1](images/S3D/S3DExt.png)
+![S3D_Set3](images/S3D/S3DExt.png)
 
 
 
