@@ -42,25 +42,6 @@ http://nanodax.jp/3Dfilament.html
 [フェイスシールドを安全に作って渡すためのガイドラインドキュメント](https://fabsafehub.org/faceshield)
 
 
-# パラメトリック・モデル (Thingiverse Customizr機能への公開)
-
-頭のうらの「つる」の部分の長さだけを自由に改変できる、パラメトリック・モデルを作成し、世界的な3Dデータレポジトリ「Thingiverse」に公開しました（ベータ版です）。https://www.thingiverse.com/thing:4431372
-
-![パラメトリック・モデル](images/customizr1.png)
-![パラメトリック・モデル](images/customizr2.png)
-![パラメトリック・モデル](images/customizr3.png)
-
-「Customizer」という機能を使うことで自由につるの長さを変更できます。
-
-
-
-# パラメトリック・モデル (独自のカスタマイズサイトの開発) ※開発中
-
-独自のパラメトリック・モデル改変インターフェイスを研究開発中です。
-
-https://fab.sfc.keio.ac.jp/openjscad/packages/web/
-
-![パラメトリック・モデル編集サイト](images/screenshot_specialsite.png)
 
 
 # 印刷設定(スライサーの設定)
@@ -108,4 +89,25 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 カットをするための型紙を用意いたしましたので、ダウンロードしプリントしてお使いください。
 A3用紙で印刷することで、適切な型紙サイズとしてお使い頂けます。
 ![シールド型紙](images/shield_pattern.png)
+
+
+# パラメトリック・モデル (Thingiverse Customizr機能への公開)
+
+頭のうらの「つる」の部分の長さだけを自由に改変できる、パラメトリック・モデルを作成し、世界的な3Dデータレポジトリ「Thingiverse」に公開しました（ベータ版です）。https://www.thingiverse.com/thing:4431372
+
+![パラメトリック・モデル](images/customizr1.png)
+![パラメトリック・モデル](images/customizr2.png)
+![パラメトリック・モデル](images/customizr3.png)
+
+「Customizer」という機能を使うことで自由につるの長さを変更できます。
+
+
+
+# パラメトリック・モデル (独自のカスタマイズサイトの開発) ※開発中
+
+独自のパラメトリック・モデル改変インターフェイスを研究開発中です。
+
+https://fab.sfc.keio.ac.jp/openjscad/packages/web/
+
+![パラメトリック・モデル編集サイト](images/screenshot_specialsite.png)
 
