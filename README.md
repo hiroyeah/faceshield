@@ -92,7 +92,6 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 ### [Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura) での詳細設定
 
 
-
 # シールド部について(材質・型紙)
 本Wakyuモデルは 透明度が非常に高く、除菌・消毒作業に対応する為、ポリカーボネートを使用したシールドを用いております。
 シールドの大きさは 横 265 mm × 高さ250 mm です。
@@ -105,3 +104,4 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 カットをするための型紙を用意いたしましたので、ダウンロードしプリントしてお使いください。
 A3用紙で印刷することで、適切な型紙サイズとしてお使い頂けます。
 ![シールド型紙](images/shield_pattern.png)
+
