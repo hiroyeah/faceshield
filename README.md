@@ -86,8 +86,12 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 #### ※モデルが非常に薄い為、高度な設定の”薄壁生成時の動作”を必ず変更し、画像のようにしてください。
 ![S3D_Set3](images/S3D/S3DExt.png)
 
+#### スライスした状態
+フレーム全体
+![S3D_Set4](images/S3D/S3DSlice1.png)
 
-
+スリット部分
+![S3D_Set4](images/S3D/S3DSlice2.png)
 
 ### [Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura) での詳細設定
 
