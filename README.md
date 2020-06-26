@@ -68,10 +68,24 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 フェイスシールドを一般的なフィラメントタイプのプリンターでプリントするには細かな印刷設定が必要です。
 いくつかのパラメータを変更することで、印刷時間を短縮し、より仕上がりが良く着け心地の良いフレームをプリントする事ができます。
 ２つのスライサーのお勧めする印刷設定を紹介します。
-[Simplify3D](https://www.simplify3d.com/)
+
+[Simplify3D](https://www.simplify3d.com/)での詳細設定
+
+インフィルはできるだけ0%にしてください
+![S3D_Set1](images/S3D/S3Dlayer.png)
+
+アウトラインは2層~3層が推奨です。　3層にする場合は変更項目がほかにあります。
+スタート地点を固定することで、短時間かつ、美しい造形が可能です。
+![S3D_Set1](images/S3D/S3Dinfill.png)
+
+※モデルが非常に薄い為、高度な設定の”薄壁生成時の動作”を必ず変更し、画像のようにしてください。
+![S3D_Set1](images/S3D/S3DExt.png)
 
 
-[Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura) 
+
+
+[Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura) での詳細設定
+
 
 
 # シールド部について(材質・型紙)
@@ -81,7 +95,6 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 書類留めに使うバンドなどをお使いください。
 
 ポリカーボネート製シールド部分の単品販売も行う予定ですので、お問い合わせください。
-
 
 多くの方にお使い頂けるよう、シールド部分は大きめに作成しております。
 カットをするための型紙を用意いたしましたので、ダウンロードしプリントしてお使いください。
