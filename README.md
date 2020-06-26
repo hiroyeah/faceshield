@@ -68,7 +68,7 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 フェイスシールドを一般的なフィラメントタイプのプリンターでプリントするには細かな印刷設定が必要です。
 いくつかのパラメータを変更することで、印刷時間を短縮し、より仕上がりが良く着け心地の良いフレームをプリントする事ができます。
 ２つのスライサーのお勧めする印刷設定を紹介します。
-[Simplify3D] (https://www.simplify3d.com/)
+[Simplify3D](https://www.simplify3d.com/)
 
 
 [Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura) 
