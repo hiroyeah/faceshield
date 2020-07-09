@@ -69,6 +69,7 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 いくつかのパラメータを変更することで、印刷時間を短縮し、より仕上がりが良く着け心地の良いフレームをプリントする事ができます。
 
 ２つのスライサーのお勧めする印刷設定を紹介します。
+お使いの3Dプリンターのマシン設定・プロファイルを準備し、プリント設定を変更してください。
 
 ### [Simplify3D](https://www.simplify3d.com/)での詳細設定
 
@@ -96,6 +97,28 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 ### [Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura) での詳細設定
 
 
+#### Curaの設定を変更する。
+(EN) Preferences   -> Configure Cura  -> Setting
+(JP) プレファレンス -> Curaを構成する　 -> 設定
+からスライス設定の項目を追加する。
+Basicの状態からいくつかを追加するだけで良いです。
+
+#### 印刷設定のサンプル
+重要な設定ポイントは、Line Width とWall Line Count です
+
+英語
+![Cura_Set1](images/Cura/CuraSetEN.png)
+
+日本語
+![Cura_Set2](images/Cura/CuraSetJP.png)
+
+
+スライスサンプル
+![Cura_Sample1](images/Cura/CuraSliceSample1.png)
+![Cura_Sample2](images/Cura/CuraSliceSample2.png)
+
+
+
 # シールド部について(材質・型紙)
 本Wakyuモデルは 透明度が非常に高く、除菌・消毒作業に対応する為、ポリカーボネートを使用したシールドを用いております。
 シールドの大きさは 横 265 mm × 高さ250 mm です。
@@ -103,6 +126,7 @@ https://fab.sfc.keio.ac.jp/openjscad/packages/web/
 書類留めに使うバンドなどをお使いください。
 
 ポリカーボネート製シールド部分の単品販売も行う予定ですので、お問い合わせください。
+[販売先]https://item.rakuten.co.jp/auc-himitsukichi/c/0000000001/
 
 多くの方にお使い頂けるよう、シールド部分は大きめに作成しております。
 カットをするための型紙を用意いたしましたので、ダウンロードしプリントしてお使いください。
