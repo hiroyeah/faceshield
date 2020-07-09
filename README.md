@@ -81,6 +81,28 @@ http://nanodax.jp/3Dfilament.html
 ### [Ultimaker Cura](https://ultimaker.com/ja/software/ultimaker-cura) での詳細設定
 
 
+#### Curaの設定を変更する。
+(EN) Preferences   -> Configure Cura  -> Setting
+(JP) プレファレンス -> Curaを構成する　 -> 設定
+からスライス設定の項目を追加する。
+Basicの状態からいくつかを追加するだけで良いです。
+
+#### 印刷設定のサンプル
+重要な設定ポイントは、Line Width とWall Line Count です
+
+英語
+![Cura_Set1](images/Cura/CuraSetEN.png)
+
+日本語
+![Cura_Set2](images/Cura/CuraSetJP.png)
+
+
+スライスサンプル
+![Cura_Sample1](images/Cura/CuraSliceSample1.png)
+![Cura_Sample2](images/Cura/CuraSliceSample2.png)
+
+
+
 # シールド部について(材質・型紙)
 本Wakyuモデルは 透明度が非常に高く、除菌・消毒作業に対応する為、ポリカーボネートを使用したシールドを用いております。
 シールドの大きさは 横 265 mm × 高さ250 mm です。
