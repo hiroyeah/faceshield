@@ -90,11 +90,9 @@ Basicの状態からいくつかを追加するだけで良いです。
 #### 印刷設定のサンプル
 重要な設定ポイントは、Line Width とWall Line Count です
 
-英語
-![Cura_Set1](images/Cura/CuraSetEN.png)
+設定例
+![Cura_Set1](images/Cura/CuraSet.png)
 
-日本語
-![Cura_Set2](images/Cura/CuraSetJP.png)
 
 
 スライスサンプル
