@@ -43,7 +43,7 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 
 # 公開した3Dデータの説明
 
-フィラメント式のデスクトップ3Dプリンタで出力する場合、フォルダに公開したデータのうち　[Wakyu_Large.stl](Wakyu_Large.stl)が大サイズ、[Wakyu_Middle.stl](Wakyu_Middle.stl)が中サイズ、[Wakyu_Small.stl] (Wakyu_Small.stl)が小サイズになっています。どのデータも「透明シールド」を差し込むための溝の設計がカギです。スライス時に、その「溝」をサポート材で埋めたりせずに、かつ寸法通り正しい幅で出力するために、3Dプリンタのノズルは0.4mmを強くお勧めします。
+フィラメント式のデスクトップ3Dプリンタで出力する場合、フォルダに公開したデータのうち　[Wakyu_Large.stl](Wakyu_Large.stl)が大サイズ、[Wakyu_Middle.stl](Wakyu_Middle.stl)が中サイズ、[Wakyu_Small.stl](Wakyu_Small.stl)が小サイズになっています。どのデータも「透明シールド」を差し込むための溝の設計がカギです。スライス時に、その「溝」をサポート材で埋めたりせずに、かつ寸法通り正しい幅で出力するために、3Dプリンタのノズルは0.4mmを強くお勧めします。
 
 
 # 使用可能なフィラメント
