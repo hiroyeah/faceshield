@@ -37,8 +37,6 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 ・[エス．ラボ株式会社 3Dプラント ムービー](https://youtu.be/kBtXUk4LydI)
 
 
-[![](http://img.youtube.com/vi/kBtXUk4LydI/0.jpg)](http://www.youtube.com/watch?v=kBtXUk4LydI "S lab GEM-3D PLANT")
-
 
 
 
