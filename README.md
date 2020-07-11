@@ -36,6 +36,11 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 ・[エス．ラボ株式会社　(フェイスシールドそのものの注文・購入を希望する場合)](http://slab.jp/)
 
 
+・[エス．ラボ株式会社 3Dプラント ムービー](https://youtu.be/kBtXUk4LydI)
+
+
+
+
 
 # 公開した3Dデータの説明
 
