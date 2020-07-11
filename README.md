@@ -19,7 +19,7 @@ tanakalab-sfc@googlegroups.com にお願いいたします。カスタマイズ�
 ![2020年6月29日　京都府立聾学校への寄贈の様子](images/photo.png)
 
 
-![実物イメージA](images/souchaku.png) 画像提供：P&G
+![実物イメージA](images/souchaku2.png) 画像提供：P&G
 
 ![実物プリント](images/SamplePrint01.png)
 
